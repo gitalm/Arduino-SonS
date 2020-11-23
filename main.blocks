@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="forever" x="0" y="0"/><block type="buttonEvent" x="50" y="190"><field name="button">input.buttonA0</field><field name="event">ButtonEvent.Click</field></block></xml>
